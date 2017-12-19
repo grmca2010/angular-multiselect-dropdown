@@ -1,0 +1,21 @@
+{
+  "name": "angular-multiselect-dropdown",
+  "description": "angular dropdown",
+  "main": "dist/angular-multiselect-dropdown.js",
+"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+  "authors": [
+    "\"Pieter Kempenaers <pkempenaers@myforce.be>\"",
+    "\"grmca<grmca@gmail.com>\""
+  ],
+  "license": "ISC",
+  "keywords": [
+    "dropdown"
+  ],
+  "homepage": ""
+}
